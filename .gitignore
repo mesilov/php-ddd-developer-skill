@@ -1,0 +1,8 @@
+.idea
+/vendor
+.env.local
+*.local
+/dist/
+/.venv/
+__pycache__/
+*.pyc
